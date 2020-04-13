@@ -1,6 +1,5 @@
-#
 # Plex plug-in that plays live streams (like IPTV) from a M3U playlist ##
-Current Release] 2.2.0
+Current Release: 2.2.0
 
 ### Introduction ###
 A simple [Plex Media Servers](https://www.plex.tv/downloads) plug-in that reads live streams (like [IPTV](http://en.wikipedia.org/wiki/IPTV)) urls from a [m3u](https://en.wikipedia.org/wiki/M3U) file and passes 'em to Plex in format understandable to Plex so it could try to play them.
